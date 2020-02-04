@@ -1,0 +1,13 @@
+body {
+    padding-top: 5rem;
+  }
+  .userContainer {
+    padding: 3rem 1.5rem;
+    text-align: left;
+  }
+  .profile {
+    padding: 3rem 1.5rem;
+  }
+  .avatar {
+    width: 100%;
+  }
